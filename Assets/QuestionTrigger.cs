@@ -14,6 +14,8 @@ public class QuestionTrigger : MonoBehaviour
 
             if (Input.GetKeyDown(KeyCode.E))
             {
+                Cursor.lockState = CursorLockMode.None;
+                Cursor.visible = true;
                 questionPanel.SetActive(true);
                 interactionHint.SetActive(false);
                 gameObject.SetActive(false); // dezactivezi obiectul

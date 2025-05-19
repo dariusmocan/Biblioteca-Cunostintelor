@@ -40,7 +40,7 @@ public class QuestionManager : MonoBehaviour
         verdictText.text = message;
         verdictText.color = color;
 
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(2f);
 
         verdictText.text = "";
         questionText.gameObject.SetActive(false);
