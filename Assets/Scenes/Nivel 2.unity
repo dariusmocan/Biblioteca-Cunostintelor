@@ -1626,7 +1626,7 @@ GameObject:
   - component: {fileID: 683188072}
   - component: {fileID: 683188071}
   - component: {fileID: 683188070}
-  - component: {fileID: 683188069}
+  - component: {fileID: 683188074}
   m_Layer: 5
   m_Name: QuestionPanel2
   m_TagString: Untagged
@@ -1658,23 +1658,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -366.32, y: -16.671692}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &683188069
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 683188067}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4eb2e18c938dd6c44b592c30cb558a5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  questionText: {fileID: 1498013455}
-  answer1: {fileID: 1016985659}
-  answer2: {fileID: 274480031}
-  answer3: {fileID: 54647100}
-  verdictText: {fileID: 270537224}
 --- !u!114 &683188070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1753,6 +1736,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 683188067}
   m_CullTransparentMesh: 1
+--- !u!114 &683188074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683188067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bae3d9d6cac0f0f4c9ffbad075fbc01a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionText: {fileID: 1498013455}
+  answer1: {fileID: 1016985659}
+  answer2: {fileID: 274480031}
+  answer3: {fileID: 54647100}
+  verdictText: {fileID: 270537224}
 --- !u!1 &832075555
 GameObject:
   m_ObjectHideFlags: 0
