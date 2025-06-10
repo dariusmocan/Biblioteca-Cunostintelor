@@ -1,0 +1,79 @@
+{
+  "Fizică și Chimie": [
+    {
+      "question": "Care este simbolul chimic pentru apă?",
+      "options": ["H2O", "CO2", "O2"],
+      "correct_answer": "H2O"
+    },
+    {
+      "question": "Ce stare de agregare are gheața?",
+      "options": ["Solidă", "Lichidă", "Gazoasă"],
+      "correct_answer": "Solidă"
+    },
+    {
+      "question": "Ce unitate măsoară forța?",
+      "options": ["Joule", "Newton", "Watt"],
+      "correct_answer": "Newton"
+    },
+    {
+      "question": "Care este simbolul chimic pentru oxigen?",
+      "options": ["O", "Ox", "O2"],
+      "correct_answer": "O"
+    },
+    {
+      "question": "Care este sursa principală de energie pentru Pământ?",
+      "options": ["Soarele", "Luna", "Vântul"],
+      "correct_answer": "Soarele"
+    },
+    {
+      "question": "Ce particulă are sarcină negativă?",
+      "options": ["Proton", "Electron", "Neutron"],
+      "correct_answer": "Electron"
+    },
+    {
+      "question": "Ce unitate măsoară tensiunea electrică?",
+      "options": ["Ohm", "Volt", "Amper"],
+      "correct_answer": "Volt"
+    },
+    {
+      "question": "Cum se numește schimbarea din solid în lichid?",
+      "options": ["Condensare", "Topire", "Sublimare"],
+      "correct_answer": "Topire"
+    },
+    {
+      "question": "Ce gaz respirăm pentru a trăi?",
+      "options": ["Dioxid de carbon", "Azot", "Oxigen"],
+      "correct_answer": "Oxigen"
+    },
+    {
+      "question": "Cum se numește reacția în care o substanță arde?",
+      "options": ["Oxidare", "Reducere", "Neutralizare"],
+      "correct_answer": "Oxidare"
+    },
+    {
+      "question": "Ce element chimic are simbolul Na?",
+      "options": ["Calciu", "Sodiu", "Magneziu"],
+      "correct_answer": "Sodiu"
+    },
+    {
+      "question": "Ce fenomen produce curcubeul?",
+      "options": ["Refracție", "Reflexie", "Absorbție"],
+      "correct_answer": "Refracție"
+    },
+    {
+      "question": "Cum se numește procesul prin care lichidele devin gaze?",
+      "options": ["Topire", "Evaporare", "Înghețare"],
+      "correct_answer": "Evaporare"
+    },
+    {
+      "question": "Care este simbolul chimic al fierului?",
+      "options": ["Fe", "Fi", "Ir"],
+      "correct_answer": "Fe"
+    },
+    {
+      "question": "Ce tip de energie produce un bec electric?",
+      "options": ["Energie cinetică", "Energie luminoasă", "Energie nucleară"],
+      "correct_answer": "Energie luminoasă"
+    }
+  ]
+}
