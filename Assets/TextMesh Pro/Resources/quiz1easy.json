@@ -1,0 +1,79 @@
+{
+  "Istorie și Geografie": [
+    {
+      "question": "Care este capitala Franței?",
+      "options": ["Paris", "Lyon", "Marsilia"],
+      "correct_answer": "Paris"
+    },
+    {
+      "question": "Care este cel mai lung fluviu din lume?",
+      "options": ["Amazon", "Nil", "Yangtze"],
+      "correct_answer": "Amazon"
+    },
+    {
+      "question": "În ce continent se află Egiptul?",
+      "options": ["Asia", "Africa", "Europa"],
+      "correct_answer": "Africa"
+    },
+    {
+      "question": "Ce țară are cel mai mare teritoriu?",
+      "options": ["Canada", "Rusia", "China"],
+      "correct_answer": "Rusia"
+    },
+    {
+      "question": "Care este capitala Spaniei?",
+      "options": ["Barcelona", "Valencia", "Madrid"],
+      "correct_answer": "Madrid"
+    },
+    {
+      "question": "Câte continente există pe Pământ?",
+      "options": ["5", "6", "7"],
+      "correct_answer": "7"
+    },
+    {
+      "question": "Ce țară are steagul cu frunză de arțar?",
+      "options": ["Canada", "Suedia", "Australia"],
+      "correct_answer": "Canada"
+    },
+    {
+      "question": "Care este capitala Italiei?",
+      "options": ["Milano", "Roma", "Napoli"],
+      "correct_answer": "Roma"
+    },
+    {
+      "question": "Ce munte este cel mai înalt de pe Pământ?",
+      "options": ["K2", "Everest", "Mont Blanc"],
+      "correct_answer": "Everest"
+    },
+    {
+      "question": "Ce țară este faimoasă pentru piramidele sale?",
+      "options": ["Mexic", "Egipt", "Peru"],
+      "correct_answer": "Egipt"
+    },
+    {
+      "question": "Care este capitala Germaniei?",
+      "options": ["Berlin", "Hamburg", "Munchen"],
+      "correct_answer": "Berlin"
+    },
+    {
+      "question": "Ce ocean este cel mai mare?",
+      "options": ["Atlantic", "Indian", "Pacific"],
+      "correct_answer": "Pacific"
+    },
+    {
+      "question": "Care este cel mai populat continent?",
+      "options": ["Europa", "Asia", "Africa"],
+      "correct_answer": "Asia"
+    },
+    {
+      "question": "Care este capitala Marii Britanii?",
+      "options": ["Manchester", "Londra", "Liverpool"],
+      "correct_answer": "Londra"
+    },
+    {
+      "question": "Care este cel mai lung fluviu din Europa?",
+      "options": ["Rin", "Dunărea", "Volga"],
+      "correct_answer": "Volga"
+    }
+  ]
+}

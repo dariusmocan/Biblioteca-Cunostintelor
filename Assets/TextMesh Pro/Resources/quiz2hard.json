@@ -1,0 +1,79 @@
+{
+  "Fizică și Chimie": [
+    {
+      "question": "Ce este un izotop?",
+      "options": ["Atom cu același număr de protoni, dar masă diferită", "Atom cu același număr de electroni", "Atom cu același număr de neutroni"],
+      "correct_answer": "Atom cu același număr de protoni, dar masă diferită"
+    },
+    {
+      "question": "Ce este entalpia?",
+      "options": ["Căldura la presiune constantă", "Presiunea unui gaz", "Temperatura de topire"],
+      "correct_answer": "Căldura la presiune constantă"
+    },
+    {
+      "question": "Ce particulă poartă forța electromagnetică?",
+      "options": ["Foton", "Electron", "Neutron"],
+      "correct_answer": "Foton"
+    },
+    {
+      "question": "Ce fenomen explică culorile observate în bule de săpun?",
+      "options": ["Difracție", "Interferență", "Refracție"],
+      "correct_answer": "Interferență"
+    },
+    {
+      "question": "Cum se numește schimbarea din gaz în lichid?",
+      "options": ["Condensare", "Topire", "Sublimare"],
+      "correct_answer": "Condensare"
+    },
+    {
+      "question": "Ce este legea lui Ohm?",
+      "options": ["R = U/I", "P = U x I", "E = mc^2"],
+      "correct_answer": "R = U/I"
+    },
+    {
+      "question": "Ce tip de legătură chimică este prezentă în molecula de apă?",
+      "options": ["Legătură ionică", "Legătură metalică", "Legătură covalentă"],
+      "correct_answer": "Legătură covalentă"
+    },
+    {
+      "question": "Ce se măsoară în Henry (H)?",
+      "options": ["Inductanța", "Capacitatea", "Rezistența"],
+      "correct_answer": "Inductanța"
+    },
+    {
+      "question": "Ce tip de reacție este fotosinteza?",
+      "options": ["Endotermă", "Exotermă", "Redox"],
+      "correct_answer": "Endotermă"
+    },
+    {
+      "question": "Ce este un catalizator?",
+      "options": ["Substanță care încetinește reacția", "Substanță care participă la reacție", "Substanță care accelerează reacția fără a fi consumată"],
+      "correct_answer": "Substanță care accelerează reacția fără a fi consumată"
+    },
+    {
+      "question": "Ce înseamnă pH 7?",
+      "options": ["Acid", "Neutru", "Bază"],
+      "correct_answer": "Neutru"
+    },
+    {
+      "question": "Ce planetă are câmp magnetic puternic și radiație intensă?",
+      "options": ["Venus", "Jupiter", "Marte"],
+      "correct_answer": "Jupiter"
+    },
+    {
+      "question": "Care este principiul de funcționare al transformatorului electric?",
+      "options": ["Refracția luminii", "Inducția electromagnetică", "Convecția"],
+      "correct_answer": "Inducția electromagnetică"
+    },
+    {
+      "question": "Cum se mai numește radiația corpusculară?",
+      "options": ["Radiație alfa", "Radiație infraroșie", "Radiație X"],
+      "correct_answer": "Radiație alfa"
+    },
+    {
+      "question": "Ce tip de reacție chimică implică pierderea de electroni?",
+      "options": ["Oxidare", "Reducere", "Neutralizare"],
+      "correct_answer": "Oxidare"
+    }
+  ]
+}

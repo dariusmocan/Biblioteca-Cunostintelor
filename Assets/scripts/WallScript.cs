@@ -5,7 +5,7 @@ using UnityEngine;
 public class WallScript : MonoBehaviour
 {
     public QuestionManager correctAnswer;
-    public int goal = 1;
+    public int goal = 3;
     
     // Start is called before the first frame update
     void Start()

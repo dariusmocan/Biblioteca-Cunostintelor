@@ -1,0 +1,79 @@
+{
+  "Istorie și Geografie": [
+    {
+      "question": "Care a fost capitala Imperiului Bizantin?",
+      "options": ["Constantinopol", "Atena", "Istanbul"],
+      "correct_answer": "Constantinopol"
+    },
+    {
+      "question": "În ce an a avut loc căderea Imperiului Roman de Apus?",
+      "options": ["410", "476", "395"],
+      "correct_answer": "476"
+    },
+    {
+      "question": "Care era titlul conducătorului Imperiului Otoman?",
+      "options": ["Sultan", "Rege", "Țar"],
+      "correct_answer": "Sultan"
+    },
+    {
+      "question": "Ce dinastie chineză a construit Orașul Interzis?",
+      "options": ["Han", "Ming", "Tang"],
+      "correct_answer": "Ming"
+    },
+    {
+      "question": "Care a fost prima civilizație care a folosit scrierea cuneiformă?",
+      "options": ["Romanii", "Egiptenii", "Sumerienii"],
+      "correct_answer": "Sumerienii"
+    },
+    {
+      "question": "Ce țară a fost cunoscută drept Persia?",
+      "options": ["Iran", "India", "Irak"],
+      "correct_answer": "Iran"
+    },
+    {
+      "question": "Care este cel mai adânc lac din lume?",
+      "options": ["Lacul Victoria", "Lacul Tanganika", "Lacul Baikal"],
+      "correct_answer": "Lacul Baikal"
+    },
+    {
+      "question": "Cine a fost ultimul țar al Rusiei?",
+      "options": ["Petru cel Mare", "Nicolae al II-lea", "Ivan cel Groaznic"],
+      "correct_answer": "Nicolae al II-lea"
+    },
+    {
+      "question": "În ce oraș a fost semnat Tratatul de la Versailles?",
+      "options": ["Paris", "Versailles", "Berlin"],
+      "correct_answer": "Versailles"
+    },
+    {
+      "question": "Care este cea mai mică țară din lume?",
+      "options": ["San Marino", "Monaco", "Vatican"],
+      "correct_answer": "Vatican"
+    },
+    {
+      "question": "Ce munte sacru este venerat în Japonia?",
+      "options": ["Fuji", "Hiei", "Koya"],
+      "correct_answer": "Fuji"
+    },
+    {
+      "question": "Ce popor antic a construit Machu Picchu?",
+      "options": ["Mayași", "Incași", "Azteci"],
+      "correct_answer": "Incași"
+    },
+    {
+      "question": "Ce bătălie a avut loc în anul 1066?",
+      "options": ["Bătălia de la Waterloo", "Bătălia de la Hastings", "Bătălia de la Lepanto"],
+      "correct_answer": "Bătălia de la Hastings"
+    },
+    {
+      "question": "Care este capitala Mongoliei?",
+      "options": ["Astana", "Ulaanbaatar", "Bishkek"],
+      "correct_answer": "Ulaanbaatar"
+    },
+    {
+      "question": "Ce fluviu traversează Londra?",
+      "options": ["Tamisa", "Rin", "Loara"],
+      "correct_answer": "Tamisa"
+    }
+  ]
+}

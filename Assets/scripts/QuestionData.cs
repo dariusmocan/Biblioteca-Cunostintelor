@@ -1,15 +1,16 @@
-﻿[System.Serializable]
-public class Question
+﻿using System;
+using System.Collections.Generic;
+
+[Serializable]
+public class QuestionItem
 {
     public string question;
-    public string[] options;
+    public List<string> options;
     public string correct_answer;
 }
 
-[System.Serializable]
-public class Category
+[Serializable]
+public class QuestionCategory
 {
-    public Question[] IstorieȘiGeografie;
-    public Question[] ȘtiințăȘiTehnologie;
-    public Question[] ArtăȘiCultură;
+    public List<QuestionItem> IstorieșiGeografie;
 }
